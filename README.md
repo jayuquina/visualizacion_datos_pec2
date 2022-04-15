@@ -4,6 +4,9 @@
 
 ## Enlaces
 
+Github  
+https://github.com/jayuquina/visualizacion_datos_pec2.git  
+
 Sankey Diagrams  
 [https://public.flourish.studio/visualisation/9260674/](https://public.flourish.studio/visualisation/9260674/)  
 
